@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nicotianæ encomium; or, The golden leaf tabacco display'd in its soveraignty and singular vertues.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06904</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[379]</idno>
+            <idno type="EEBO-CITATION">99887007</idno>
+            <idno type="PROQUEST">ocm99887007</idno>
+            <idno type="VID">181700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181700)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[382])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nicotianæ encomium; or, The golden leaf tabacco display'd in its soveraignty and singular vertues.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n..</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Ye hot! ye cold! ye rheumatick! draw nigh ..."</note>
+                  <note>Imperfect: cropped at head and foot with loss of imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tobacco --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181700:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>Nicotianae Encomium; Or, The GOLDEN LEAF
+<note n="*" place="margin">Ta— <hi>Ab In<g ref="char:EOLhyphen"/>ſula</hi> Tabacco <hi>ubi provenit rectiùs (ni fallor) ſcri<g ref="char:EOLhyphen"/>bitur quam</hi> To—</note> TABACCO Diſplay'd in its Soveraignty and ſingular Vertues.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>E Hot! ye Cold! ye Rheumatick! draw nigh;</l>
+               <l>In this Rich Leafe a Soveraign Doſe doth lie</l>
+               <l>Will cure ye All; Phyſick ye need not want,</l>
+               <l>Here 'tis i'th' Gummy Entralls of a Plant.</l>
+               <l>To purge the Breaſt from Flegm, to give a Stoole</l>
+               <l>To coſtive Bodies, glowing Veins to coole;</l>
+               <l>To rouſe up Spirits, and chill Blood to heat,</l>
+               <l>To raiſe the Pulſe, and make it nimbly beat;</l>
+               <l>Each Joynt and Nerve (from Head to Foot) to warme</l>
+               <l>With Active Vigour—<hi>Her's your Powerful Charme!</hi>
+               </l>
+               <l>And if th' Grand Bugbear-Toad, the Plague, ye fear,</l>
+               <l>Lo! under God, your <hi>Antidote</hi> is here.</l>
+               <l>Brave Leafe! thou act's the Able Doctor's Part,</l>
+               <l>In thee there's wrapt an <hi>Aeſculapian Art.</hi>
+               </l>
+               <l>Thou <note n="*" place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t Dei Mi<g ref="char:EOLhyphen"/>niſtra, non adulterata, &amp; modicè ſumpta.</hi>
+                  </note> frights Infection, bribes our Fatal Doomes,</l>
+               <l>Prolongs our Lives, and ſaves us from our Tombes,</l>
+               <l>Perſumes our Throats, our Mouths, our Cloaths, our Rooms:</l>
+               <l>Thou Sleep procures, and rock'ſt our Cradle-Beds,</l>
+               <l>Still'ſt aching Teeth, and cures our aching Heads;</l>
+               <l>'Tis Salve, no Smoak ſure, which thy Chimney ſheads.</l>
+               <l>Thy Juice ('tis ſaid) Medicinal is found,</l>
+               <l>It heals (tho' poyſon'd) any bleeding Wound:</l>
+               <l>Then ſuch as would Extemp're-Surg'ons be,</l>
+               <l>Muſt not Box-up, but only Bottle Thee;</l>
+               <l>Not dry thy Leafe, but Drain't (this underſtood</l>
+               <l>Prevents abuſe) for them thy Liquor's good.</l>
+               <l>A Vomit-Broome made of thy Syrupe, ſweeps</l>
+               <l>(When foule) and clean the Stomack's Kitchen keeps:</l>
+               <l>Cookes! think of this; ye are by right (ye ſee)</l>
+               <l>No Smoakers, but as Chimny-Sweepers be;</l>
+               <l>To clear your Cook-Roomes from Diſeaſed Duſt,</l>
+               <l>Or make or buy <hi>Tabacco-Broomes</hi> ye muſt.</l>
+               <l>Now for your uſe, I think they might do well,</l>
+               <l>If ſome would Cry'om, others keep to Sell:</l>
+               <l>So 'bout this Oake, like Ivy might ye twiſt,</l>
+               <l>And each Bro' live on's Bro'—<hi>Tabaconiſt.</hi>
+               </l>
+               <l>Nee'r fear to Break, ye 'Prentices to th' <hi>Trade!</hi>
+               </l>
+               <l>Your <hi>Leaf</hi> may <hi>Wither,</hi> but it cannot <hi>Fade:</hi>
+               </l>
+               <l>By Whole-ſale, Re-tale vend your Hearb; the while</l>
+               <l>Let ſome Sail o're to the <hi>Tabakian I'le;</hi>
+               </l>
+               <l>There Plant, and Reape, and fill their builded Cribbs,</l>
+               <l>And others mince Her Broad Tranſported Ribbs:</l>
+               <l>Here ſtarts a Paradox; — Thus ſome that do</l>
+               <l>No Purſes take, may live by <hi>Cutting</hi> tho'.</l>
+               <l>Then fill your Boxes, ſtore your Shops anew,</l>
+               <l>And Pipe, and Dance, and Sing, ye Jolly Crew!</l>
+               <l>For whilſt ye joyne, and each Man drives his <hi>Trade,</hi>
+               </l>
+               <l>Tho' your <hi>Leaf Wither,</hi> yet it ſhall not <hi>Fade;</hi>
+               </l>
+               <l>But Coyn ſhall Court y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and ye ſhall go Brave,</l>
+               <l>As Merchants do that many Factors have,</l>
+               <l>And all have Cauſe to cry—<hi>O Vertue rare!</hi>
+               </l>
+               <l>
+                  <hi>What Other Leaf may with Our Leaf Compare?</hi>
+               </l>
+               <l>Brave Leaf! thou acts the Able Doctor<hi>'s Part,</hi>
+               </l>
+               <l>In thee ther's wrapt an Aeſculapian Art.</l>
+               <l>Thy Bowels Soveraign Balſame drop, when burn'd,</l>
+               <l>And thou art good to Duſt and Aſhes turn'd;</l>
+               <l>Thy Sneezing Powder has the art to drain</l>
+               <l>From all Rheumatick Humours, Head and Brain,</l>
+               <l>Which trickle down, as Water from the Roſe,</l>
+               <l>Through th'open Conduits of the Mouth and Noſe.</l>
+               <l>Come Diſtillations! Tiſſicks! Coughs! Catharres!</l>
+               <l>All Colds, all Moiſture's Off-ſpring! that make Warrs.</l>
+               <l>With Eyes, Gummes, Lungs; Diſeaſes—Hydra! bow</l>
+               <l>Thy Neck to th'Block, expect the Fatal Blow:</l>
+               <l>
+                  <hi>Tabacco!</hi> here behold this Monſter lie,</l>
+               <l>With Apron and with Butcher-Sleeves draw nigh,</l>
+               <l>Strike with thy Smoakey Axe! Strike! ſtrike! —'tis done!</l>
+               <l>The Blow is given, off the Heads are gone!</l>
+               <l>Great <hi>Creature-Word!</hi> Who can thy Letters tell!</l>
+               <l>Or knowledge has thy Syllables to ſpell!</l>
+               <l>Thoſe choice Effects thy Vertue yet affords</l>
+               <l>Swell much beyond the narrow Graſpe of Words:</l>
+               <l>I faulter here; — Thy Depths are too profound</l>
+               <l>For Reaſon, and her Line too ſhort to ſound</l>
+               <l>Or fathome'om; how can my Heart endite</l>
+               <l>Thy hidden Secrets! or thy praiſes write</l>
+               <l>How can my <hi>ABC</hi> and ſhort-ſighted Quill!</l>
+               <l>This claimes ſome Rabby's,—yea an Angel's skill.</l>
+               <l>The Quickeſt Artiſt verſt in Nature's Mine,</l>
+               <l>May ſooner read a <hi>Sybil's</hi> Leafe than Thine.</l>
+               <l>If ſo, how high doth Natures Folio ſwel!</l>
+               <l>If little Words, large pages ſure excel</l>
+               <l>The ſtrength and ſtature of the talleſt Sage,</l>
+               <l>With which no Mortal's able to engage:</l>
+               <l>Sure theſe <hi>Goliaths</hi> with their Spear and Shield</l>
+               <l>Challenge the ſtouteſt <hi>David</hi> into th' Field.</l>
+               <l>What's th' Bark to th' Tree! can none peruſe or look</l>
+               <l>The Covers o're! who then can read the Book!</l>
+               <l>What e're the Heav'ns contain, or Earthly Ball,</l>
+               <l>Perſpectives are to view <hi>Man's All in All,</hi>
+               </l>
+               <l>
+                  <hi>Faire Copys of that Great ORIGINAL:</hi>
+               </l>
+               <l>Straight Lines which in this Center are connext,</l>
+               <l>Sermons that Comment on this Sacred Text.</l>
+               <l>Even here the Learn'd of Learning ſee their want,</l>
+               <l>By knowledge learn to know they're ignorant.</l>
+               <l>My Muſe was nipt i'th' Bud; a Poet's Name</l>
+               <l>Belongs to ſuch whoſe True-bred Genius flame,</l>
+               <l>As Lackey by His Side this Ruſh ſhall run,</l>
+               <l>Whoſe Taper-Muſe is lighted at the <hi>SuN:</hi>
+               </l>
+               <l>With brighter Beams ſome Noble <hi>Sol</hi> might grace</l>
+               <l>This Subject, and my <hi>Luna's</hi> ſpotted face.</l>
+               <l>Riſe <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>is Orbe, <hi>Brave Luminary!</hi> mine</l>
+               <l>Shall quickly Set, and give You room to Shine:</l>
+               <l>Mean time, this Starre, as Harbenger of Day,</l>
+               <l>Shall March before Your more Refulgent Ray.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="illegible_back_matter">
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
